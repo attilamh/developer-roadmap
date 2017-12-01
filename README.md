@@ -25,7 +25,7 @@ If you think that these can be improved in anyway, please do suggest.
 
 For the backend, your choice should be based on the complexity of the application. For any web-app that is expected to have high load, high volume, your choice should be Java. For quick prototyping Python would be my preferred choice, perhaps PHP. Ruby is also a fun language and would work. Again, depends on your needs.
 
-![](https://i.imgur.com/FJwJWOL.png)
+![](https://i.imgur.com/hkJRtS3.png)
 
 ## 👷 DevOps Roadmap
 
